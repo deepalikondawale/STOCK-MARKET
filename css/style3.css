@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.content11{
+  height: 50%;
+  width: 50%;
+  overflow: hidden;
+  align-items:center;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+}
+.content .images{
+  height: 50%;
+  width: 50%;
+}
+.images img{
+  height: 50%;
+  width: 50%;
+  align-items:center;
+}
